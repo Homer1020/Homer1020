@@ -1,4 +1,3 @@
-![](banner.png)
 ### Hi I'm Homer Moncayo 👋
 I am a FullStack Web Developer with 5 years of experience. I use technologies such as NextJS, NodeJS, MongoDB, MySQL and Laravel. I stand out for being able to take any design to the web and make it responsive.
 
