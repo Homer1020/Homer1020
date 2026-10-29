@@ -41,5 +41,3 @@ I am a FullStack Web Developer with 5 years of experience. I use technologies su
     width="36" height="36" style="margin-right: 10px;" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
     width="36" height="36" style="margin-right: 10px;" alt="MySQL" /></a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homer1020&hide_progress=true&langs_count=9&theme=radical)
